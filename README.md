@@ -15,4 +15,4 @@ Sheffield Star - Live
 Yorkshire Evening Post - Live
 Toronto Star - Live
 
-Total: 14
+[Total: 14 -  Confluence doc](https://agatehq.atlassian.net/wiki/spaces/SD/pages/edit-v2/5144593)
